@@ -10,7 +10,9 @@ It provides a comprehensive overview of retail business performance through KPIs
 
 ## Tools & Technologies
 - Microsoft Power BI Desktop
-- Data Analysis
+- Power Query
+- Data Modeling
+- DAX
 - Data Visualization
 - Business Intelligence
 - KPI Reporting
@@ -57,9 +59,9 @@ It provides a comprehensive overview of retail business performance through KPIs
 
 ## Project Files
 
-- `365_Retail_Dashboard.pbix` – Power BI project file.
-- `365_Retail_Dashboard.pdf` – Seven-page PDF report.
-- `365_Retail_Dashboard_Preview.png` – Dashboard preview.
+- `365 Retail- Zanaib Younas.pbix` – Original Power BI dashboard.
+- `365 Retail.pdf` – Seven-page PDF report.
+- `365_Retail_Dashboard_Preview.png` – Preview of all seven dashboard pages.
 
 ## Author
 
